@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/adityatrivedi/Desktop/GIT:GITHUB/first-git",
-      "program": "/Users/adityatrivedi/Desktop/GIT:GITHUB/first-git/build/Debug/outDebug"
+      "cwd": "/Users/adityatrivedi/Documents/GitHub/first-git",
+      "program": "/Users/adityatrivedi/Documents/GitHub/first-git/build/Debug/outDebug"
     }
   ]
 }
