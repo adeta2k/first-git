@@ -15,5 +15,6 @@ P = (float)T/300 * 100;
 
 cout<<T<<"\n"<<P;
 return 0;
+cout<<"this is money money money";
 
 }
